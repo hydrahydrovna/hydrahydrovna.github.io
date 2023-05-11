@@ -1,0 +1,53 @@
+div#tekst_sverhu_kartinki {
+
+	position: relative;
+	
+	}.tekst_sverhu_kartinki {
+	
+	position: absolute;
+	
+	top: 50%;
+	
+	left: 65px;
+	
+	text-transform: uppercase;
+	
+	color: white;
+	
+	width: 350px;
+	
+	background: #00000094;
+	
+	padding: 10px;
+	
+	text-align: center;
+	
+	font: bold 24px/34px Helvetica, Sans-Serif;
+	
+	}
+
+@font-face {
+	font-family: "minecraft";
+	src: url("fonts/minecraft.ttf");
+}
+
+#bg{
+	background-image: url("https://ru-minecraft.ru/uploads/posts/2011-12/1323510856_forestnope.jpg");
+	height: 100%;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+	font-family: "minecraft";
+}
+
+h2{
+	font-family: "minecraft";
+}
+
+p{
+	font-family: "minecraft";
+}
