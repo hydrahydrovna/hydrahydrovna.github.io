@@ -81,3 +81,9 @@ p{
 	  background-position: 200% center;
 	}
   }
+
+
+.popusk{
+	text-decoration: line-through;
+	text-decoration-color: red;
+}
